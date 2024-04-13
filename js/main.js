@@ -237,7 +237,7 @@ const claimButtonEl = document.querySelector(".claim-button");
 const rewardAmountEl = document.querySelector(".reward-amount");
 const vestingCalendarEl = document.querySelector(".content");
 
-const contractAddress = "0xfE155287640ad10d36f5bb94FEFC498d268d088C";
+const contractAddress = "0xC3C63429D28111006D4ffFD033e8Eb2550aB2734";
 const tokenDecimals = 6;
 const targetChainId = 56;
 // const targetChainId = 11155111;
